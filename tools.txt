@@ -1,0 +1,7 @@
+mvn clean test site
+mcn cobertura:cobertura
+mvn sonar:sonar
+
+
+jenkins
+jfrog
