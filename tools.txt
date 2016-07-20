@@ -1,6 +1,7 @@
 mvn clean test site
 mvn cobertura:cobertura
 mvn sonar:sonar
+mvn javadoc:javadoc
 
 
 jenkins
