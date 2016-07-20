@@ -1,5 +1,5 @@
 mvn clean test site
-mcn cobertura:cobertura
+mvn cobertura:cobertura
 mvn sonar:sonar
 
 
